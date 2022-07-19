@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Number of Nice Subarrays", "Count Number of Nice Subarrays\Count Number of Nice Subarrays.csproj", "{E98BBD76-3122-40AC-BD04-E855149F0AE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E98BBD76-3122-40AC-BD04-E855149F0AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98BBD76-3122-40AC-BD04-E855149F0AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98BBD76-3122-40AC-BD04-E855149F0AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98BBD76-3122-40AC-BD04-E855149F0AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20A3CFAD-727D-46EA-A7E5-CF04D64BBE96}
+	EndGlobalSection
+EndGlobal
